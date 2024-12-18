@@ -1,0 +1,3 @@
+Django
+pymysql
+rasa_sdk
