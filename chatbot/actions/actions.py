@@ -3,7 +3,7 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from db_connection import  execut_query
 
-
+# for testing 
 class ActionFetchAllProducts(Action):
 
     def name(self) -> Text:
